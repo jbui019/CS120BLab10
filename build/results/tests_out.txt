@@ -1,4 +1,4 @@
-Breakpoint 1 at 0x32e: file source/main.c, line 78.
+Breakpoint 1 at 0x358: file source/main.c, line 84.
 Note: automatically using hardware breakpoints for read-only addresses.
 ======================================================
 Running all tests..."
